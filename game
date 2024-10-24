@@ -1,2 +1,8 @@
 ﻿var lastUpdate = Date.now();
 var diff = (Date.now() - lastUpdate) / 1000;
+function hardReset() {
+    /*存档数值*/
+    player = {
+        ass: new demical(2)
+        ass-speed: new demical(0)
+}
